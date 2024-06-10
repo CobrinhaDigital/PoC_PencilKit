@@ -36,9 +36,7 @@ struct DrawingStroke {
         transform: CGAffineTransform,
         mask: UIBezierPath
     ) {
-        for point in path.interpolatedPoint(at: 5.3) {
-            
-        }
+
     }
 }
 
